@@ -1,66 +1,135 @@
 -
-  type: journal
-  title: Using context to reveal factors that affect physical activity
-  authors: Ian Li, Anind K. Dey, Jodi Forlizzi
-  journal: ACM Transactions on Computer Human Interaction
-  volume: 19 
-  issue: 1
-  year: 2012
-  month: March
-  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
-  url: http://dl.acm.org/citation.cfm?id=2147783.2147790
--
-  type: dissertation
-  title: "Personal Informatics and Context: Using Context to Reveal Factors that Affect Behavior"
-  authors: Ian Li
-  year: 2011
-  publisher: Carnegie Mellon University
-  pdf: http://ianli.com/thesis/docs/dissertation.pdf
-  url: http://dl.acm.org/citation.cfm?id=2520311
+  type: conference
+  authors: 'Galloy, Michael and Fillmore, David'
+  title: 'SatelliteDL: a Toolkit for Analysis of Heterogeneous Satellite Datasets'
+  conference: 'American Geophysical Union Fall Meeting'
+  address: 'San Francisco, CA'
+  month: 'dec'
+  year: '2014'
+  month_numeric: '12'
 -
   type: conference
-  title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  conference: Proceedings of UbiComp 2011
-  year: 2011
-  pages: 405-414
-  pdf: http://ianli.com/publications/2011-ianli-ubicomp-understanding-my-data.pdf
-  url: http://dl.acm.org/citation.cfm?id=2030166
+  authors: 'Galloy, Michael'
+  title: 'Accelerated IDL using OpenCL'
+  conference: 'American Geophysical Union Fall Meeting'
+  address: 'San Francisco, CA'
+  month: 'dec'
+  year: '2013'
+  month_numeric: '12'
+-
+  type: techreport
+  authors: 'Galloy, Michael D.'
+  title: 'Remote Data Access with IDL'
+  institution: 'NASA'
+  number: 'GSC-16253-1'
+  year: '2013'
+  month: 'mar'
+  note: 'http://ntrs.nasa.gov/search.jsp?R=20130011228'
+  month_numeric: '3'
 -
   type: conference
-  title: A stage-based model of personal informatics systems
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  year: 2010
-  conference: Proceedings of CHI 2010
-  pages: 557-566
-  pdf: http://ianli.com/publications/2010-ianli-chi-stage-based-model.pdf
-  url: http://dl.acm.org/citation.cfm?id=1753326.1753409
-- 
-  type: conference
-  title: "Here's What I Did: Sharing and Reusing Web Activity with ActionShot"
-  authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, Allen Cypher
-  conference: Proceedings of CHI 2010
-  year: 2010
-  pages: 723-732
-  pdf: http://ianli.com/publications/2010-ianli-chi-actionshot.pdf
-  url: http://dl.acm.org/citation.cfm?id=1753326.1753432
--
-  type: magazine
-  title: "Grafitter: leveraging social media for self reflection"
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  magazine: Crossroads
-  volume: 16
-  issue: 2
-  year: 2009
-  pages: 12-13
-  url: http://dl.acm.org/citation.cfm?id=1665997.1666001
-  pdf: http://ianli.com/publications/2009-ianli-crossroads-grafitter.pdf
+  authors: 'Galloy, Michael'
+  title: 'GPU accelerated curve fitting with IDL'
+  conference: 'American Geophysical Union Fall Meeting'
+  address: 'San Francisco, CA'
+  month: 'dec'
+  year: '2012'
+  month_numeric: '12'
 -
   type: conference
-  title: Using Visualizations to Increase Compliance in Experience Sampling
-  authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, Scott Hudson
-  conference: Proceedings of UbiComp 2008
-  year: 2008
-  pages: 164-167
-  pdf: http://ianli.com/publications/2008-hsieh-ubicomp-using-visualizations.pdf
-  url: http://portal.acm.org/citation.cfm?id=1409635.1409657
+  authors: 'Fillmore, David and Pletzer, Alexander and Galloy, Michael'
+  title: 'A Python Geospatial Language Toolkit'
+  conference: 'American Geophysical Union Fall Meeting'
+  address: 'San Francisco, CA'
+  month: 'dec'
+  year: '2012'
+  month_numeric: '12'
+-
+  type: article
+  authors: 'Galloy, Michael'
+  title: 'Using the Data Access Protocol with IDL'
+  journal: 'Computing in Science and Engineering'
+  volume: '13'
+  number: '6'
+  year: '2011'
+  month: 'nov'
+  pages: '90--95'
+  month_numeric: '11'
+-
+  type: book
+  authors: 'Galloy, Michael'
+  title: 'Modern IDL: A Guide to IDL Programming'
+  publisher: 'self-published'
+  year: '2011'
+  address: 'Boulder, CO'
+-
+  type: conference
+  authors: 'Galloy, Michael'
+  title: 'Accessing Data via DAP in IDL'
+  conference: 'American Geophysical Union Fall Meeting'
+  address: 'San Francisco, CA'
+  month: 'dec'
+  year: '2010'
+  month_numeric: '12'
+-
+  type: conference
+  authors: 'Messmer, Peter and Mullowney, Paul and Galloy, Michael and Fillmore,
+    David and Granger, Brian and Amyx, Keegan'
+  title: 'Astronomical Data Analysis on Graphics Cards'
+  conference: 'American Physical Society'
+  month: 'apr'
+  year: '2008'
+  month_numeric: '4'
+-
+  type: conference
+  authors: 'Messmer, Peter and Mullowney, Paul and Galloy, Mike and Granger, Brian
+    and Karipides, Dan and Fillmore, David and Sizemore, Nate and Amyx, Keegan and
+    Wade-Stein, Dave'
+  title: 'GPU Computing in High-Level Languages'
+  conference: 'SIAM Conference on Parallel Processing for Scientific Computing'
+  address: 'San Francisco, CA'
+  year: '2008'
+-
+  type: conference
+  authors: 'Fillmore, David and Galloy, Michael and Messmer, Peter'
+  title: 'Parallel IDL and Python for Earth and Space Science Data Analysis'
+  conference: 'American Geophysical Union Fall Meeting'
+  address: 'San Francisco, CA'
+  month: 'dec'
+  year: '2007'
+  month_numeric: '12'
+-
+  type: conference
+  authors: 'Galloy, Michael and Stoltz, Peter and Granger, Brian and Dechow, Doug'
+  title: 'TxView: A Tool for Interactive Analysis of Remote Accelerator Simulation
+    Data'
+  conference: 'Particle Accelerator Conference'
+  address: 'Albuquerque, NM'
+  year: '2007'
+-
+  type: techreport
+  authors: 'Galloy, Michael'
+  title: 'Making Regular Expressions Your Friends'
+  institution: 'RSI User-Contributed Library'
+  year: '2005'
+-
+  type: manual
+  authors: 'Galloy, Michael and Piper, Mark'
+  title: 'Advanced Topics in IDL'
+  ogranization: 'ITT VIS'
+  year: '2004'
+-
+  type: article
+  authors: 'Fulman, Jason E. and Galloy, Michael D. and Sherman, Gary J. and Vanderkam,
+    Jeffrey M.'
+  title: 'Counting Nilpotent Pairs in Finite Groups'
+  journal: 'Ars Comb.'
+  volume: '54'
+  year: '1999'
+-
+  type: phdthesis
+  authors: 'Galloy, Michael'
+  title: 'Harmonic Univalent Mappings on the Unit Disk and the Punctured Unit Disk'
+  school: 'University of Kentucky'
+  address: 'Lexington, KY'
+  year: '1998'

@@ -1,44 +1,42 @@
-name: Ian Li
+name: Michael D. Galloy
 
-label: UI Designer
+label: Mathematician
 
-picture: /img/profile-picture.jpg
+picture: /img/profile-picture.png
 
-email: ianli@ianli.com
+email: mgalloy@gmail.com
 
-phone: 
+phone: 303.324.6746
 
-department: Android UX
+department: Computational Infrastructure
 
-institution: Google
+institution: Tech-X
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  1342 Marshall St. Apt. A
+  Boulder, CO 80302
 
 profiles:
-  - 
+  -
     network: Google Scholar
     username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+    url: http://scholar.google.com/citations?user=8lstArMAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/in/mgalloy
   -
     network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+    username: mgalloy
+    url: https://twitter.com/mgalloy/
 
 intro:
   title: Hello!
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+    I'm a research mathematician at Tech-X Corporation, working in the areas
+    of high-performance computing, general purpose computing on graphics
+    processing units (GPGPU), and visualization, especially as applied to the
+    earth sciences.
+    
+    Before Tech-X, I taught scientists to use the Interactive Date Language
+    (IDL) at RSI, now [Exelis VIS](http://www.exelisvis.com).
