@@ -3,40 +3,38 @@
   description: >
     hello
   image: /img/phd-thesis.png
-  url: http://ianli.com/thesis/
+  url: http://www.txcorp.com/home/gpulib
 -
   name: FastDL
   description: >
     hello
   image: /img/phd-thesis.png
-  url: http://ianli.com/thesis/
+  url: http://www.txcorp.com/fastdl
 -
   name: Rapid Model Fitting Toolkit (RMFT)
   description: >
     hello
   image: /img/phd-thesis.png
-  url: http://ianli.com/thesis/
 -
   name: (RDL)
   description: >
     hello
   image: /img/phd-thesis.png
-  url: http://ianli.com/thesis/
 -
   name: IDLdoc
   description: >
     hello
   image: /img/phd-thesis.png
-  url: http://ianli.com/thesis/
+  url: http://github.com/mgalloy/idldoc
 -
   name: mgunit
   description: >
     hello
   image: /img/phd-thesis.png
-  url: http://ianli.com/thesis/
+  url: http://github.com/mgalloy/mgunit
 -
   name: rIDL
   description: >
     hello
   image: /img/phd-thesis.png
-  url: http://ianli.com/thesis/
+  url: http://github.com/mgalloy/ridl
