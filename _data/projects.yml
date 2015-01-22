@@ -1,40 +1,99 @@
 -
   name: GPULib
   description: >
-    hello
-  image: /img/phd-thesis.png
+    GPULib enables users to access high performance computing with minimal
+    modification to their existing programs. By providing bindings between
+    Interactive Data Language (IDL) and large GPU libraries for general purpose
+    computations, GPULib can accelerate new applications or be incorporated
+    into existing applications with minimal effort. No knowledge of GPU
+    programming or memory management is required.
+  image: /img/hubble.jpg
   url: http://www.txcorp.com/home/gpulib
 -
   name: FastDL
   description: >
-    hello
-  image: /img/phd-thesis.png
+    Often experiments and simulations generate large amounts of data.
+    Scientists exploring fluid and particle dynamics, high-energy and plasma
+    physics, astrophysics and space sciences, biophysics, protein folding and
+    medical science are challenged to visualize and analyze increasingly
+    complex data. Many technical professionals rely on the Interactive Data
+    Language (IDL) from Exelis Visual Information Solutions to visualize and
+    analyze these large data sets. However some analyses cannot be practically
+    accomplished on a workstation or server with only symmetric
+    multi-processing. And while distributed memory parallel processing promises
+    cost-effective computing power, IDL alone does not naturally take advantage
+    of this parallel environment.
+
+    To bridge the gap between IDL and parallel computing, Tech-X Corporation
+    has developed FastDL. With FastDL scientists and developers can run IDL
+    visualization and analysis applications in parallel on a series of
+    networked computers – significantly shortening the time required to get
+    results.
+  image: /img/usa_map.png
   url: http://www.txcorp.com/fastdl
 -
-  name: Rapid Model Fitting Toolkit (RMFT)
+  name: A Rapid Model Fitting Tool Suite (RMFT)
   description: >
-    hello
-  image: /img/phd-thesis.png
+    Instruments flown on board NASA missions often do not measure quantities
+    of interest to scientists directly, but rather observable quantities. In
+    addition, instruments often introduce artifacts into the data and
+    techniques are needed to remove them. In both cases, scientifically
+    relevant information can be inferred by simulating a parameterized model
+    and adjusting the parameters to best match observed data. This minimization
+    process of "fitting" a model to data is computationally demanding, since it
+    requires evaluating the often complex models many times and minimizing a
+    function of many variables. Fast, more efficient fitting techniques are
+    therefore required in order to fully harvest the scientific output from
+    NASA missions.
+
+    In this project, we developed a fast, general-purpose parameter fitting
+    software tool suite taking advantage of inexpensive, high-performance
+    graphics processing units (GPUs). The goal of Phase I of this project is to
+    demonstrate the feasibility of model fitting on GPUs. We will therefore
+    prototype forward models, relevant mathematical operators and the actual
+    parameter adjustment algorithm on GPUs and compare their performance to a
+    pure CPU implementation. We will particularly focus on ease of use for the
+    scientist to migrate their applications to this infrastructure.
+  image: /img/briefing-chart-diagram.png
 -
-  name: (RDL)
+  name: Remote Data Exploration with IDL (RDL)
   description: >
-    hello
-  image: /img/phd-thesis.png
+    The DAP protocol provides a discipline-neutral means of requesting and
+    providing data across the World Wide Web. We built a library of routines,
+    including a graphical user interface, for IDL allowing a user-friendly
+    experience to seamlessly retrieve remote data with the DAP standard. The
+    library was also integrated with a parallel computing library.
+  image: /img/h5_browser_screenshot.png
 -
   name: IDLdoc
   description: >
-    hello
-  image: /img/phd-thesis.png
+    IDLdoc generates nicely formatted API documentation directly from IDL
+    source code. If the documentation is kept close to the code itself is much
+    more likely to be kept up-to-date. As much as possible the documentation
+    produced by IDLdoc is generated directly from the source code, making
+    IDLdoc useful even if there are no specially formatted comments at all in
+    the source code.
+  image: /img/idldoc.png
   url: http://github.com/mgalloy/idldoc
 -
   name: mgunit
   description: >
-    hello
-  image: /img/phd-thesis.png
+    mgunit is a unit testing framework modeled on other xUnit testing
+    frameworks. The goal is to allow easy creation and reporting of results of
+    tests, while still allowing for many different testing situations. Simple
+    naming conventions replace formal creation of hierarchies and specification
+    of tests. This allows test suites to be created with a minimum of code
+    beyond the actual code of the tests themselves.
+  image: /img/mgunit.png
   url: http://github.com/mgalloy/mgunit
 -
   name: rIDL
   description: >
-    hello
-  image: /img/phd-thesis.png
+    The Really Interactive Data Language (rIDL) provides a command line
+    interface for IDL with more interactive features. Completion on filenames,
+    variables, routines, system variables, reserved words, and executive
+    commands allows users to quickly explore possibilities. rIDL also provides
+    a richer set of other features including output logging and advanced
+    history handling.
+  image: /img/ridl.png
   url: http://github.com/mgalloy/ridl
