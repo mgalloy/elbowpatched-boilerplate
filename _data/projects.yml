@@ -97,3 +97,13 @@
     history handling.
   image: /img/ridl.png
   url: http://github.com/mgalloy/ridl
+-
+  name: Modern IDL
+  description: >
+    Modern IDL is an opinionated guide to using IDL, including information
+    about recent versions of IDL, advanced topics, and best practices. Modern
+    IDL is also a useful reference guide for both beginners and advanced users,
+    collecting tables and lists of items that are scattered through the online
+    help.
+  image: /img/modernidl.png
+  url: http://modernidl.idldev.com
