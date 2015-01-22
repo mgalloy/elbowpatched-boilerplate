@@ -1,135 +1,130 @@
 -
   type: conference
-  authors: 'Galloy, Michael and Fillmore, David'
+  authors: Michael Galloy and David Fillmore
   title: 'SatelliteDL: a Toolkit for Analysis of Heterogeneous Satellite Datasets'
-  conference: 'American Geophysical Union Fall Meeting'
-  address: 'San Francisco, CA'
-  month: 'dec'
-  year: '2014'
-  month_numeric: '12'
+  conference: American Geophysical Union Fall Meeting
+  address: San Francisco, CA
+  month: dec
+  year: 2014
+  month_numeric: 12
 -
   type: conference
-  authors: 'Galloy, Michael'
+  authors: Michael Galloy
   title: 'Accelerated IDL using OpenCL'
-  conference: 'American Geophysical Union Fall Meeting'
-  address: 'San Francisco, CA'
-  month: 'dec'
-  year: '2013'
-  month_numeric: '12'
+  conference: American Geophysical Union Fall Meeting
+  address: San Francisco, CA
+  month: dec
+  year: 2013
+  month_numeric: 12
 -
   type: techreport
-  authors: 'Galloy, Michael D.'
+  authors: Michael D. Galloy
   title: 'Remote Data Access with IDL'
-  institution: 'NASA'
-  number: 'GSC-16253-1'
-  year: '2013'
-  month: 'mar'
-  note: 'http://ntrs.nasa.gov/search.jsp?R=20130011228'
-  month_numeric: '3'
+  institution: NASA
+  number: GSC-16253-1
+  year: 2013
+  month: mar
+  note: http://ntrs.nasa.gov/search.jsp?R=20130011228
+  month_numeric: 3
 -
   type: conference
-  authors: 'Galloy, Michael'
+  authors: Michael Galloy
   title: 'GPU accelerated curve fitting with IDL'
-  conference: 'American Geophysical Union Fall Meeting'
-  address: 'San Francisco, CA'
-  month: 'dec'
-  year: '2012'
-  month_numeric: '12'
+  conference: American Geophysical Union Fall Meeting
+  address: San Francisco, CA
+  month: dec
+  year: 2012
+  month_numeric: 12
 -
   type: conference
-  authors: 'Fillmore, David and Pletzer, Alexander and Galloy, Michael'
+  authors: David Fillmore, Alexander Pletzer, and Michael Galloy
   title: 'A Python Geospatial Language Toolkit'
-  conference: 'American Geophysical Union Fall Meeting'
-  address: 'San Francisco, CA'
-  month: 'dec'
-  year: '2012'
-  month_numeric: '12'
+  conference: American Geophysical Union Fall Meeting
+  address: San Francisco, CA
+  month: dec
+  year: 2012
+  month_numeric: 12
 -
   type: article
-  authors: 'Galloy, Michael'
+  authors: Michael Galloy
   title: 'Using the Data Access Protocol with IDL'
-  journal: 'Computing in Science and Engineering'
-  volume: '13'
-  number: '6'
-  year: '2011'
-  month: 'nov'
-  pages: '90--95'
-  month_numeric: '11'
+  journal: Computing in Science and Engineering
+  volume: 13
+  number: 6
+  year: 2011
+  month: nov
+  pages: 90--95
+  month_numeric: 11
 -
   type: book
-  authors: 'Galloy, Michael'
+  authors: Michael Galloy
   title: 'Modern IDL: A Guide to IDL Programming'
-  publisher: 'self-published'
-  year: '2011'
-  address: 'Boulder, CO'
+  publisher: self-published
+  year: 2011
+  address: Boulder, CO
 -
   type: conference
-  authors: 'Galloy, Michael'
+  authors: Michael Galloy
   title: 'Accessing Data via DAP in IDL'
-  conference: 'American Geophysical Union Fall Meeting'
-  address: 'San Francisco, CA'
-  month: 'dec'
-  year: '2010'
-  month_numeric: '12'
+  conference: American Geophysical Union Fall Meeting
+  address: San Francisco, CA
+  month: dec
+  year: 2010
+  month_numeric: 12
 -
   type: conference
-  authors: 'Messmer, Peter and Mullowney, Paul and Galloy, Michael and Fillmore,
-    David and Granger, Brian and Amyx, Keegan'
+  authors: Peter Messmer, Paul Mullowney, Michael Galloy, David Fillmore, Brian Granger, and Keegan Amyx
   title: 'Astronomical Data Analysis on Graphics Cards'
-  conference: 'American Physical Society'
-  month: 'apr'
-  year: '2008'
-  month_numeric: '4'
+  conference: American Physical Society
+  month: apr
+  year: 2008
+  month_numeric: 4
 -
   type: conference
-  authors: 'Messmer, Peter and Mullowney, Paul and Galloy, Mike and Granger, Brian
-    and Karipides, Dan and Fillmore, David and Sizemore, Nate and Amyx, Keegan and
-    Wade-Stein, Dave'
+  authors: Peter Messmer, Paul Mullowney, Mike Galloy, Dan Granger, Brianand Karipides, David Fillmore, Nate Sizemore, Keegan Amyx, and Dave Wade-Stein
   title: 'GPU Computing in High-Level Languages'
-  conference: 'SIAM Conference on Parallel Processing for Scientific Computing'
-  address: 'San Francisco, CA'
-  year: '2008'
+  conference: SIAM Conference on Parallel Processing for Scientific Computing
+  address: San Francisco, CA
+  year: 2008
 -
   type: conference
-  authors: 'Fillmore, David and Galloy, Michael and Messmer, Peter'
+  authors: David Fillmore, Michael Galloy, and Peter Messmer
   title: 'Parallel IDL and Python for Earth and Space Science Data Analysis'
-  conference: 'American Geophysical Union Fall Meeting'
-  address: 'San Francisco, CA'
-  month: 'dec'
-  year: '2007'
-  month_numeric: '12'
+  conference: American Geophysical Union Fall Meeting
+  address: San Francisco, CA
+  month: dec
+  year: 2007
+  month_numeric: 12
 -
   type: conference
-  authors: 'Galloy, Michael and Stoltz, Peter and Granger, Brian and Dechow, Doug'
-  title: 'TxView: A Tool for Interactive Analysis of Remote Accelerator Simulation
-    Data'
-  conference: 'Particle Accelerator Conference'
-  address: 'Albuquerque, NM'
-  year: '2007'
+  authors: Michael Galloy, Peter Stoltz, Brian Granger, and Doug Dechow
+  title: 'TxView: A Tool for Interactive Analysis of Remote Accelerator SimulationData'
+  conference: Particle Accelerator Conference
+  address: Albuquerque, NM
+  year: 2007
 -
   type: techreport
-  authors: 'Galloy, Michael'
+  authors: Michael Galloy
   title: 'Making Regular Expressions Your Friends'
-  institution: 'RSI User-Contributed Library'
-  year: '2005'
+  institution: RSI User-Contributed Library
+  year: 2005
 -
   type: manual
-  authors: 'Galloy, Michael and Piper, Mark'
+  authors: Michael Galloy and Mark Piper
   title: 'Advanced Topics in IDL'
-  ogranization: 'ITT VIS'
-  year: '2004'
+  ogranization: ITT VIS
+  year: 2004
 -
   type: article
-  authors: 'Fulman, Jason E. and Galloy, Michael D. and Sherman, Gary J. and Vanderkam,
-    Jeffrey M.'
+  authors: Jason E. Fulman, Michael D. Galloy, Gary J. Sherman, and Jeffrey M. Vanderkam
   title: 'Counting Nilpotent Pairs in Finite Groups'
-  journal: 'Ars Comb.'
-  volume: '54'
-  year: '1999'
+  journal: Ars Comb.
+  volume: 54
+  year: 1999
 -
   type: phdthesis
-  authors: 'Galloy, Michael'
+  authors: Michael Galloy
   title: 'Harmonic Univalent Mappings on the Unit Disk and the Punctured Unit Disk'
-  school: 'University of Kentucky'
-  address: 'Lexington, KY'
-  year: '1998'
+  school: University of Kentucky
+  address: Lexington, KY
+  year: 1998
