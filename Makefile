@@ -2,7 +2,9 @@ JEKYLL=jekyll
 BIBTEX2YAML=bibtex2yaml.rb
 BIO_DIR=$(HOME)/projects/bio/cv
 
-.PHONY: build clean serve publications
+.PHONY: all build clean serve publications
+
+all: publications
 
 build:
 	$(JEKYLL) build
@@ -18,13 +20,7 @@ publications:
 	  | sed -e 's/:\(.*\):/\1:/g' \
 	  | sed -e 's/{//g' \
 	  | sed -e 's/}//g' \
-		> _data/publications.yml
-	# remove first line
-	# :bibtext_key: .* -> (nothing)
-	# :bibtex_type: inproceedings -> :type: conference
-	# :organization: -> :conference:
-	# :author: -> :authors:
-	# :key: -> key:
+	  > _data/publications.yml
 
 serve:
 	$(JEKYLL) serve
