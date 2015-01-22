@@ -2,7 +2,7 @@ JEKYLL=jekyll
 BIBTEX2YAML=bibtex2yaml.rb
 BIO_DIR=$(HOME)/projects/bio/cv
 
-.PHONY: all build clean serve publications
+.PHONY: all build clean serve open publications
 
 all: publications
 
@@ -23,7 +23,10 @@ publications:
 	  > _data/publications.yml
 
 serve:
-	$(JEKYLL) serve
+	$(JEKYLL) serve --baseurl ''
+
+open:
+	open http://localhost:4000
 
 clean:
 	rm -rf _site
