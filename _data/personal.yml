@@ -13,7 +13,7 @@ department: Computational Infrastructure
 institution: Tech-X
 
 mailing_address: >
-  1342 Marshall St. Apt. A
+  1342 Marshall St. Apt. B
   Boulder, CO 80302
 
 profiles:
@@ -33,10 +33,13 @@ profiles:
 intro:
   title: Hello!
   body: >
-    I'm a research mathematician at Tech-X Corporation, working in the areas
-    of high-performance computing, general purpose computing on graphics
-    processing units (GPGPU), and visualization, especially as applied to the
-    earth sciences.
+    I am a software developer at NCAR High Altitude Observatory (HAO). I work
+    on the data pipelines for Mauna Loa Solar Observatory (MLSO).
+    
+    Previously, I was a research mathematician at Tech-X Corporation, working
+    in the areas of high-performance computing, general purpose computing on
+    graphics processing units (GPGPU), and visualization, especially as applied
+    to the earth sciences.
     
     Before Tech-X, I taught scientists to use the Interactive Date Language
     (IDL) at RSI, now [Exelis VIS](http://www.exelisvis.com).
