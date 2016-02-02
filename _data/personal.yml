@@ -8,9 +8,9 @@ email: mgalloy@gmail.com
 
 phone: 303.324.6746
 
-department: Computational Infrastructure
+department: High Altitude Observatory (HAO)
 
-institution: Tech-X
+institution: National Center for Atmospheric Research (NCAR)
 
 mailing_address: >
   1342 Marshall St. Apt. B
@@ -35,11 +35,11 @@ intro:
   body: >
     I am a software developer at NCAR High Altitude Observatory (HAO). I work
     on the data pipelines for Mauna Loa Solar Observatory (MLSO).
-    
+
     Previously, I was a research mathematician at Tech-X Corporation, working
     in the areas of high-performance computing, general purpose computing on
     graphics processing units (GPGPU), and visualization, especially as applied
     to the earth sciences.
-    
+
     Before Tech-X, I taught scientists to use the Interactive Date Language
     (IDL) at RSI, now [Exelis VIS](http://www.exelisvis.com).
