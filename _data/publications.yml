@@ -1,4 +1,13 @@
 -
+  type: paper
+  authors: Sarah E. Gibson and Kevin Dalmasse and Laurel A. Rachmeler and Marc L. De Rosa and Steven Tomczyk and Giuliana de Toma and Joan Burkepile and Michael Galloy
+  title: 'Magnetic Nulls and Super-radial Expansion in the Solar Corona'
+  journal: The Astrophysical Journal Letters
+  volume: 840
+  number: 2
+  url: http://stacks.iop.org/2041-8205/840/i=2/a=L13
+  year: 2017
+-
   type: conference
   authors: Michael Galloy and David Fillmore
   title: 'SatelliteDL: a Toolkit for Analysis of Heterogeneous Satellite Datasets'
